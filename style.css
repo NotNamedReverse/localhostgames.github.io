@@ -8,6 +8,10 @@
   background-color: #333;
 }
 
+body {
+    background : #6b6d7d;
+}
+
 div {
     text-align: center;
     
@@ -39,4 +43,9 @@ li a:hover {
     font-size: 40px;
     border-right: 1px solid #bbb;
     margin-right: 10px;
+}
+
+.contentDiv
+{
+    margin-top: 450px;
 }
